@@ -1,0 +1,31 @@
+# #if else 
+# if age >18:
+#     print("Adult")
+# elif age == 18:
+#     print("Becoming Adult")
+# else:
+#     print("Minor")
+
+#     num1 =18
+#     if num1 > 17:
+#         status = True
+#     else:
+#         status = False
+
+#         # for loop 
+#         my_list =["a","b","c"]
+#         for i in range(len(my_list)):
+#             print(i)
+#         for i in my_list:
+#             print(i)
+#             for i, v in enumarate(my_list):
+#                 print(i, v)
+
+            #print(my_list[i])
+my_dict = {"Name" : "Arohi", "Age ": "22", "Gender" : "Female"}
+
+for key in my_dict.keys():
+     print(key)
+
+                            
+            
