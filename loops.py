@@ -22,10 +22,13 @@
 #                 print(i, v)
 
             #print(my_list[i])
-my_dict = {"Name" : "Arohi", "Age ": "22", "Gender" : "Female"}
+# 
+for i in range(10):
+    if i == 5:
+        print("Hello")
+        break
+        
 
-for key in my_dict.keys():
-     print(key)
 
                             
             
